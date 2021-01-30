@@ -15,3 +15,14 @@ em {
 #nav-icon {
     padding-top: 10px;
 }
+
+#messages {
+    overflow: auto;
+    height: 15em;
+}
+
+.input {
+    button {
+        display: none;
+    }
+}
