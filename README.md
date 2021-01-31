@@ -1,3 +1,3 @@
 # README
 
-Personal project. Live chat web-app.
+Personal project. Simple live chatroom web-app.
